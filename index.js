@@ -1,3 +1,6 @@
+/**
+ * Copyright 2015 Urban Airship and Contributors
+ */
 var dotpath = require('dotpath-stream')
   , dedupe = require('dedupe-stream')
   , duplex = require('duplexer')
