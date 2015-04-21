@@ -1,0 +1,33 @@
+{
+  "name": "object-cursor-stream",
+  "version": "1.0.0",
+  "description": "de-duped keypath stream",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "covert test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:urbanairship/object-cursor-stream.git"
+  },
+  "keywords": [
+    "cursor",
+    "observe",
+    "object",
+    "stream"
+  ],
+  "author": "Urban Airship",
+  "license": "APACHE-V2",
+  "devDependencies": {
+    "covert": "^1.0.1",
+    "tape": "^3.5.0"
+  },
+  "dependencies": {
+    "dedupe-stream": "^1.0.1",
+    "dotpath-stream": "^2.0.1",
+    "duplexer": "^0.1.1"
+  }
+}
