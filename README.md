@@ -2,6 +2,9 @@
 
 de-duped keypath stream
 
+[![Build Status](http://img.shields.io/travis/urbanairship/object-cursor-stream/master.svg?style=flat)](https://travis-ci.org/urbanairship/object-cursor-stream)
+[![npm install](http://img.shields.io/npm/dm/object-cursor-stream.svg?style=flat)](https://www.npmjs.org/package/object-cursor-stream)
+
 ## Example
 
 ```javascript

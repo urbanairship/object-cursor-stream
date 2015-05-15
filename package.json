@@ -20,7 +20,7 @@
     "stream"
   ],
   "author": "Urban Airship",
-  "license": "APACHE-V2",
+  "license": "Apache-2.0",
   "devDependencies": {
     "covert": "^1.0.1",
     "tape": "^3.5.0"
